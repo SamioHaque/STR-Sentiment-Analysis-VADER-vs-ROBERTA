@@ -1,6 +1,6 @@
 # STR Sentiment Analysis: VADER vs ROBERTA
 
-A sentiment analysis project on **short-term rental (STR) reviews** comparing a **rule-based model (VADER)** with a **transformer-based model (ROBERTA)**.
+A sentiment analysis project on **short-term rental (STR) reviews** comparing a **rule-based model (VADER)** with a **transformer-based model (ROBERTA)**. This is an in-course project to understand the basic use of NLP in real world settings. 
 
 **Kaggle notebook:** <https://www.kaggle.com/code/samio23/str-sentiment-analysis-vader-vs-roberta>
 
